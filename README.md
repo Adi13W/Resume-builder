@@ -31,8 +31,6 @@ This project is a comprehensive web application that allows users to create and 
 
 ## Getting Started
 
-# 
-
 ## Overview
 This project is a comprehensive web application that allows users to create and manage their resumes, receive job suggestions based on their resume content, and discover relevant projects for skill enhancement. The application features a user-friendly interface and integrates with various APIs to provide personalized job and project recommendations.
 
@@ -64,7 +62,6 @@ This project is a comprehensive web application that allows users to create and 
 
 ## Getting Started
 
-HOSTING-LINK:https://vishuswastik.github.io/Resume-builder/                         
 
 ### Step-by-Step Guide
 
